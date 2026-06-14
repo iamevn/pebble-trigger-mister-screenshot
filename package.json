@@ -1,0 +1,34 @@
+{
+    "author": "iamevn",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mister-screenshot",
+    "pebble": {
+        "displayName": "MiSTer trigger screenshot",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "JSReady",
+            "TakeScreenshot",
+            "Done"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery",
+            "gabbro",
+            "flint"
+        ],
+        "uuid": "1223022c-130c-482a-9612-802f9544bde7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
