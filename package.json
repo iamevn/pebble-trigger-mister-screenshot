@@ -17,7 +17,8 @@
             {
               "type": "bitmap",
               "name": "MENU_ICON",
-              "file": "icon.png"
+              "file": "icon.png",
+              "menuIcon": true
             },
             {
               "type": "bitmap",
